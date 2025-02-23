@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0b00fff-0efe-429c-947b-662fd9b9a4a4" name="Default" comment="remove" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;khim0201&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/khim0201/game-sales-management.git&quot;,
+    &quot;accountId&quot;: &quot;a0187622-e626-47c9-bb53-31c1be23ad34&quot;
+  }
+}</component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="GameSaleControllerTest" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\JAVA_Software\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2sw01JcMquvSzDLBNY4egiTKPAd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GameSalesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameSaleControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameSaleControllerTest.testImportCsvFile.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.GameSaleControllerTest.testImportCsvFile1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ImportIntegrationTest.testImportCsvFile.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bizhu/OneDrive/Desktop/GameApplication/GameApplication&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bizhu\OneDrive\Desktop\GameApplication\GameApplication\target" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bizhu\OneDrive\Desktop\GameApplication\GameApplication\src\main\resources\static" />
+      <recent name="C:\Users\bizhu\OneDrive\Desktop\GameApplication\GameApplication" />
+      <recent name="C:\Users\bizhu\OneDrive\Desktop\GameApplication\GameApplication\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GameSalesApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameSalesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gamesales.GameSalesApplication" />
+      <module name="game-sales-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gamesales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameSaleControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game-sales-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gamesales.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gamesales.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gamesales.controller.GameSaleControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameSaleControllerTest.testImportCsvFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game-sales-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gamesales.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gamesales.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gamesales.controller.GameSaleControllerTest" />
+      <option name="METHOD_NAME" value="testImportCsvFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameSaleControllerTest.testImportCsvFile1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game-sales-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gamesales.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gamesales.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gamesales.controller.GameSaleControllerTest" />
+      <option name="METHOD_NAME" value="testImportCsvFile1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportIntegrationTest.testImportCsvFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="game-sales-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gamesales.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java.com.example.gamesales.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gamesales.integration.ImportIntegrationTest" />
+      <option name="METHOD_NAME" value="testImportCsvFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameSalesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="game-sales-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gamesales.GameSalesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameSalesApplication" />
+        <item itemvalue="JUnit.GameSaleControllerTest.testImportCsvFile" />
+        <item itemvalue="JUnit.ImportIntegrationTest.testImportCsvFile" />
+        <item itemvalue="JUnit.GameSaleControllerTest" />
+        <item itemvalue="JUnit.GameSaleControllerTest.testImportCsvFile1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0b00fff-0efe-429c-947b-662fd9b9a4a4" name="默认的" comment="" />
+      <created>1739351115644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739351115644</updated>
+      <workItem from="1739351116923" duration="880000" />
+      <workItem from="1739423606189" duration="2649000" />
+      <workItem from="1739427283887" duration="8548000" />
+    </task>
+    <task id="LOCAL-00001" summary="remove">
+      <option name="closed" value="true" />
+      <created>1740311009763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740311009763</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/gamesales/controller/GameSaleController.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/gamesales/service/impl/GameSaleServiceImpl.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/gamesales/service/impl/GameSaleServiceImpl.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/gamesales/controller/GameSaleControllerTest.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
